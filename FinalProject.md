@@ -1,4 +1,6 @@
-# Final Project
+# Final Project - PolyPi
+
+## Group members: Chanan Suksangium(cs2475), Stanley Walker(sv523), Thomas Wallace(tw526)
 
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
 
